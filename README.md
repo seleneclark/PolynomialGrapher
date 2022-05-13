@@ -1,6 +1,8 @@
 # PolynomialGrapher
 This is my Javascript program to graph user-provided polynomials.
 <br>
+Try it out here -- https://seleneclark.github.io/PolynomialGrapher/
+<br>
 ![grapher_image](https://user-images.githubusercontent.com/50272834/168276319-d3babeb8-c86e-4864-8b16-85a85358a3ea.png)
 <br>
 <ul>
